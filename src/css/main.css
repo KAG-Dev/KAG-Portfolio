@@ -2,7 +2,44 @@
 /* placed within this file. */
 
 .navbar {
-    height: 15px;
-    width: 15px;
-    background: ;
+    background: #111;
+}
+
+.navbar ul a li {
+    margin-right: 20px;
+    position: relative;
+    bottom: 3rem;
+    float: right;
+    list-style: none;
+    text-decoration: none;
+    list-style-type: none;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.navbar .LOGO {
+    color: white;
+    font: sans-serif;
+    font-size: 50px;
+    margin-top: 50px;
+}
+
+.navbar ul li:hover {
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    transition: .5s;
+}
+
+.navbar .LOGO:hover {
+    animation-name: logohover;
+    animation-duration: 1s;
+}
+
+@keyframes logohover {
+    0% {font-size: 50px;}
+    50% {font-size: 65px;}
+    100% {font-size: 50px;}
 }
