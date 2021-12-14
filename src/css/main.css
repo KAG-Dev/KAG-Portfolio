@@ -2,13 +2,14 @@
 /* placed within this file. */
 
 .navbar {
+    height: 60px;
     background: #111;
 }
 
 .navbar ul a li {
     margin-right: 20px;
     position: relative;
-    bottom: 3rem;
+    bottom: 10rem;
     float: right;
     list-style: none;
     text-decoration: none;
@@ -27,19 +28,8 @@
 }
 
 .navbar ul li:hover {
+    border-radius: 20px;
     background-color: white;
     color: black;
-    border-radius: 20px;
     transition: .5s;
-}
-
-.navbar .LOGO:hover {
-    animation-name: logohover;
-    animation-duration: 1s;
-}
-
-@keyframes logohover {
-    0% {font-size: 50px;}
-    50% {font-size: 65px;}
-    100% {font-size: 50px;}
 }
