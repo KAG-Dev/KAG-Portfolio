@@ -1,9 +1,11 @@
 <div align="center">
 
 ![Languages](https://img.shields.io/github/languages/count/GAM-Dev/GAM-Portfolio?color=%237f74c4&style=for-the-badge)
-![File-Count](https://img.shields.io/github/directory-file-count/GAM-Dev/GAM-Portfolio?color=%237f74c4&label=File%20Count&style=for-the-badge)
+![File-Count](https://img.shields.io/github/directory-file-count/GAM-Dev/GAM-Portfolio?color=%237f74c4&style=for-the-badge)
 ![License](https://img.shields.io/github/license/GAM-Dev/GAM-Portfolio?color=%237f74c4&style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/GAM-Dev/GAM-Portfolio?color=%237f74c4&style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/GAM-Dev/GAM-Portfolio?color=%237f74c4&style=for-the-badge)
+![Last-Commit](https://img.shields.io/github/last-commit/GAM-Dev/GAM-Portfolio?color=%237f74c4&style=for-the-badge)
 </div>
 
 ---
@@ -29,7 +31,7 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur dictum dui a ante gravida tincidunt. Aenean mattis aliquet nulla, vitae iaculis tortor tristique quis. Phasellus posuere et orci vitae rutrum. Nullam bibendum pellentesque varius. Pellentesque ut nibh nulla. Sed ac ullamcorper diam, eget bibendum lorem. Integer a purus et turpis convallis interdum a dignissim lacus. Nulla mattis lectus eget ex facilisis, in volutpat lectus semper. Aenean porttitor, ex sed elementum volutpat, odio turpis fringilla tellus, at dapibus ligula nisi in arcu. Mauris elementum ornare eros. Duis at mi et elit tempor commodo.
 
-![Website Screenshot](./images/wbscreenshot.jpg)
+![Website Screenshot](./src/assets/wbscreenshot.jpg)
 
 Donec auctor accumsan consectetur. Nam sodales euismod lacus eget maximus. Mauris nec pulvinar quam, et feugiat quam. Sed sodales lacinia accumsan. Morbi condimentum magna sed rutrum congue. Morbi sit amet orci magna. Aliquam sed turpis et diam sagittis rhoncus vitae in diam. Proin pulvinar nibh neque, eu pulvinar odio ullamcorper luctus. Praesent faucibus libero eros, ac tincidunt arcu congue vel.
 
