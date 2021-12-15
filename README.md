@@ -15,11 +15,11 @@
 <br />
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237F74C4&size=25&center=true&width=600&lines=GAM+Portfolio;Official+Website+for+the+GAM+Members!)](https://github.com/GAM-Dev/GAM-Portfolio/)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237F74C4&size=25&center=true&width=600&lines=KAG+Portfolio;Official+Website+for+the+KAGM+Members!)](https://github.com/KAG-Dev/KAG-Portfolio/)
 
-  The official repository for the GAM Portfolio.\
+  The official repository for the KAG Portfolio.\
   [**Explore the portfolio »**](https://gam-dev.github.io/GAM-Portfolio/)\
-  [Report Bug](https://github.com/GAM-Dev/GAM-Portfolio/issues) · [Request Feature](https://github.com/GAM-Dev/GAM-Portfolio/issues)
+  [Report Bug](https://github.com/KAG-Dev/KAG-Portfolio/issues) · [Request Feature](https://github.com/KAG-Dev/KAG-Portfolio/issues)
 </div>
 <br />
 
@@ -54,7 +54,7 @@ Donec auctor accumsan consectetur. Nam sodales euismod lacus eget maximus. Mauri
 - [ ] Add `css` styling to website
 - [ ] Create Multiverse
 
-See the [open issues](https://github.com/GAM-Dev/GAM-Portfolio/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/KAG-Dev/KAG-Portfolio/issues) for a full list of proposed features (and known issues).
 
 <br />
 
@@ -77,4 +77,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Thanks to all the people who have contributed to this project!
 
-![Contributors Display](https://badges.pufler.dev/contributors/GAM-Dev/GAM-Portfolio?size=50&padding=10&bots=true)
+![Contributors Display](https://badges.pufler.dev/contributors/KAG-Dev/KAG-Portfolio?size=50&padding=10&bots=true)
