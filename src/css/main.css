@@ -15,3 +15,7 @@ nav {
     50% {background-color: white;}
     100% {background-color: purple;}
 }
+
+nav:hover {
+    height: 55px;
+}
