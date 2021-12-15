@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+nav {
+    background-color: #111;
+    height: 20px;
+}
+
+@keyframes navbarc {
+    0% {background-color: #111;}
+    50% {background-color: #111;}
+    100% {background-color: #111;}
+}
