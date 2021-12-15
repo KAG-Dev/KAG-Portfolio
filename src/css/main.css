@@ -5,7 +5,9 @@
 
 nav {
     background-color: #111;
-    height: 100px;
+    height: 50px;
+    animation-name: navbarc;
+    animation-duration: 100s, infinite;
 }
 
 @keyframes navbarc {
