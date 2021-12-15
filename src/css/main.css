@@ -1,21 +1,43 @@
-* {
+nav {
     margin: 0px;
     padding: 0px;
 }
 
-nav {
+.bar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
     background-color: #111;
-    height: 50px;
-    animation-name: navbarc;
-    animation-duration: 100s, infinite;
-}
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    transition: .2s;
+    animation-name: sightstartani;
+    animation-duration: 5s;
+  }
+  
+  .bar li {
+    float: right;
+  }
+  
+  .bar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+  }
 
-@keyframes navbarc {
-    0% {background-color: #111;}
-    50% {background-color: white;}
-    100% {background-color: purple;}
-}
+  .bar li a:hover {
+      background-color: white;
+      color: #111;
+      transition: .5s;
+      border-radius: 30px;
+  }
 
-nav:hover {
-    height: 55px;
-}
+  @keyframes sightstartani {
+      0% {transform: scale(5px);}
+  }
