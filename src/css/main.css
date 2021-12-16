@@ -8,7 +8,7 @@ nav {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #111;
+    background-color: rgb(38, 34, 58);
     margin-top: 10px;
     margin-bottom: 10px;
     padding: 10px;
@@ -29,16 +29,20 @@ nav {
     text-decoration: none;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
-    background-color: #111;
-    transition: .5s;
   }
 
   .bar li a:hover {
       background-color: white;
       color: #111;
+      transition: .5s;
       border-radius: 30px;
   }
 
   @keyframes sightstartani {
       0% {transform: scale(5px);}
+  }
+
+  body{
+    background-image: url("galaxy.png");
+    background-color: #cccccc;
   }
