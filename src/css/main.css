@@ -43,5 +43,6 @@ nav {
   }
 
   body{
-    background-image: url("galaxy.jpg");
+    background-image: url("..galaxy.jpg");
+    background-color: #cccccc;
   }
