@@ -30,12 +30,12 @@ nav {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
     background-color: #111;
+    transition: .5s;
   }
 
   .bar li a:hover {
       background-color: white;
       color: #111;
-      transition: .5s;
       border-radius: 30px;
   }
 
